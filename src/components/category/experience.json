@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_category_experiences",
+  "info": {
+    "displayName": "Experience",
+    "icon": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "companyName": {
+      "type": "string"
+    },
+    "city": {
+      "type": "string"
+    }
+  }
+}
